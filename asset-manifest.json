@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/daniellehillman/react3/static/js/main.1ea8e7a5.chunk.js",
+    "main.js.map": "/daniellehillman/react3/static/js/main.1ea8e7a5.chunk.js.map",
+    "runtime-main.js": "/daniellehillman/react3/static/js/runtime-main.dc65bfa9.js",
+    "runtime-main.js.map": "/daniellehillman/react3/static/js/runtime-main.dc65bfa9.js.map",
+    "static/js/2.4ef726ad.chunk.js": "/daniellehillman/react3/static/js/2.4ef726ad.chunk.js",
+    "static/js/2.4ef726ad.chunk.js.map": "/daniellehillman/react3/static/js/2.4ef726ad.chunk.js.map",
+    "index.html": "/daniellehillman/react3/index.html",
+    "precache-manifest.da19789fa6b2ea82c09db1d894c78a3c.js": "/daniellehillman/react3/precache-manifest.da19789fa6b2ea82c09db1d894c78a3c.js",
+    "service-worker.js": "/daniellehillman/react3/service-worker.js",
+    "static/js/2.4ef726ad.chunk.js.LICENSE.txt": "/daniellehillman/react3/static/js/2.4ef726ad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc65bfa9.js",
+    "static/js/2.4ef726ad.chunk.js",
+    "static/js/main.1ea8e7a5.chunk.js"
+  ]
+}
