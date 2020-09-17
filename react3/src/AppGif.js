@@ -95,6 +95,9 @@ const App = () => {
   return (
     <>
       <h1>GIPHY App</h1>
+      <GifContext.provider value = {gifState}>
+
+
       <Form
         search={gifState.search}
         handleInputChange={gifState.handleInputChange}
@@ -102,6 +105,7 @@ const App = () => {
       {
         gifState.gif.title ? <Card gif={gifState.gif} /> : null
       }
+      </GifContext.provider>
     </>
   )
 }
